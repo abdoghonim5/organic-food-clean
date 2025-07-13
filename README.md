@@ -52,9 +52,6 @@ src/
       ProductsCard.jsx
   data/
     ProductsData.js
-  assets/
-    img/
-      ...product and section images
   App.jsx
   App.css
   index.css
@@ -89,5 +86,5 @@ public/
 ---
 
 <div align="center">
-  <b>© {new Date().getFullYear()} Abdo Ghonim | All rights reserved.</b>
+  <b>© 2025 Abdo Ghonim | All rights reserved.</b>
 </div>
